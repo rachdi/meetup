@@ -1,0 +1,38 @@
+
+.button  {
+	background-color: #4CAF50; 
+	border: 1px solid #30A9DE;
+	color: white;
+	padding: 15px 32px;
+	font-size: 16px;
+	cursor: pointer;
+
+}
+.entete{
+	text-align: center;
+}
+table {
+	width: 100%;
+}
+th {
+	text-align: left;
+}
+table, td, th {
+	border: 2px solid black;
+}
+#input input {
+	background-color:#FFEEE4;
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px;
+	box-sizing: border-box;
+	border-radius: 4px;
+}
+form{
+	border-radius: 5%;
+	margin-right:80%;
+	background-color: #30A9DE;
+}
+.icone button{
+	border-radius: 50%;
+}
